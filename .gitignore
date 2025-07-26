@@ -15,6 +15,12 @@ npm-debug.log*
 node_modules/
 jspm_packages/
 
+# Ignore node modules
+node_modules/
+
+# Ignore package lock file
+package-lock.json
+
 # Optional npm cache directory
 .npm
 
@@ -26,3 +32,4 @@ jspm_packages/
 
 # Other system files
 Thumbs.db
+
